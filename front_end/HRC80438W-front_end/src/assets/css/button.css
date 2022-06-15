@@ -1,0 +1,7 @@
+.button {
+  min-width: 150px !important;
+}
+
+.MuiBox-root{
+    min-width: 1000px !important;
+}
